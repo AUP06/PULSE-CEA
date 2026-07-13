@@ -1,0 +1,6 @@
+{
+  "name": "PULSE CEA Orientation Idea Hub",
+  "description": "An ultra-premium, cinematic landing page and creative idea hub for senior ECE students to submit and collaborate on orientation programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
